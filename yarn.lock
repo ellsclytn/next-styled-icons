@@ -3075,6 +3075,11 @@ neo-async@^2.5.0:
   resolved "https://registry.yarnpkg.com/neo-async/-/neo-async-2.6.0.tgz#b9d15e4d71c6762908654b5183ed38b753340835"
   integrity sha512-MFh0d/Wa7vkKO3Y3LlacqAEeHK0mckVqzDieUKTT+KGxi+zIpeVsFxymkIiRpbpDziHc290Xr9A1O4Om7otoRA==
 
+next-plugin-styled-icons@^5.2.0:
+  version "5.2.0"
+  resolved "https://registry.yarnpkg.com/next-plugin-styled-icons/-/next-plugin-styled-icons-5.2.0.tgz#4dcea165a5d10715c3d136292b17babe230a6aac"
+  integrity sha512-j9wQS9r65WvoAiymg+yrxUnvJS5LkvbXMqX0lYRVOEyqdlpBAYL7SEFgB0t4HblLUFdxgr7JddCencj6wgqiEQ==
+
 next@^7.0.2:
   version "7.0.2"
   resolved "https://registry.yarnpkg.com/next/-/next-7.0.2.tgz#5ff6b3f0e6cf03ce539d5779a55dc1f8fb1759d7"
@@ -4306,10 +4311,10 @@ styled-components@^4.0.0:
     stylis-rule-sheet "^0.0.10"
     supports-color "^5.5.0"
 
-styled-icons@^5.1.0:
-  version "5.1.0"
-  resolved "https://registry.yarnpkg.com/styled-icons/-/styled-icons-5.1.0.tgz#5b6cd601728b493d6c41902f7ffaf4531436584e"
-  integrity sha512-Pql8xLxAdQ10i0+mwMWvBD0n3DU1+FN73hrIj5UrkMs4qq+HxFhGosMsloxx5ezAToYocvLVIIPkSSqdCh2m/Q==
+styled-icons@^5.3.0:
+  version "5.3.0"
+  resolved "https://registry.yarnpkg.com/styled-icons/-/styled-icons-5.3.0.tgz#d0045fcadc5e126cf2a4bb4bfd89e7a6c83b5bdc"
+  integrity sha512-BL9Zey/tAzoxlSYG86a/NS8yx6LKTPyhXaJzfWR7TaTIf/H+OCaQv6r6b+rvQHSV/hPYGinBGgWDmvHBTs8wiA==
 
 styled-jsx@3.1.0:
   version "3.1.0"
